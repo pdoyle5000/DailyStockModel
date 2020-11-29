@@ -1,0 +1,8 @@
+name = "DailyStockModel"
+uuid = "ee435152-a17d-4ad3-8a88-4d4bba476025"
+authors = ["pdoyle5000 <pdoyle5000@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
